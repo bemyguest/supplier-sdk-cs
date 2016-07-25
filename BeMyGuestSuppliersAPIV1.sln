@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BeMyGuestSuppliersAPIV1.PCL", "BeMyGuestSuppliersAPIV1.PCL/BeMyGuestSuppliersAPIV1.PCL.csproj", "{c924b461-004c-4e53-8287-1b3db21bb0c6}"
+EndProject
+Global
+    GlobalSection(SolutionConfigurationPlatforms) = preSolution
+        Debug|Any CPU = Debug|Any CPU
+        Release|Any CPU = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(ProjectConfigurationPlatforms) = postSolution
+        {c924b461-004c-4e53-8287-1b3db21bb0c6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+        {c924b461-004c-4e53-8287-1b3db21bb0c6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+        {c924b461-004c-4e53-8287-1b3db21bb0c6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+        {c924b461-004c-4e53-8287-1b3db21bb0c6}.Release|Any CPU.Build.0 = Release|Any CPU
+    EndGlobalSection
+    GlobalSection(SolutionProperties) = preSolution
+        HideSolutionNode = FALSE
+    EndGlobalSection
+EndGlobal
